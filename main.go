@@ -31,7 +31,7 @@ const (
 	DISTANCE = "200km"
 	PROJECT_ID = "around-176301"
 	BT_INSTANCE = "around-post"
-	ES_URL = "http://35.166.187.103:9200"
+	ES_URL = "http://52.32.17.55:9200"
 )
 
 func main() {
