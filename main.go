@@ -29,7 +29,7 @@ const (
 	INDEX    = "around"
 	TYPE     = "post"
 	DISTANCE = "200km"
-	PROJECT_ID = "around-176301"
+	PROJECT_ID = "first-skein-176804"
 	BT_INSTANCE = "around-post"
 	ES_URL = "http://52.32.17.55:9200"
 )
